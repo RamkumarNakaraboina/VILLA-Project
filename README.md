@@ -17,7 +17,7 @@ This project showcases a villa/property listing website with sections like featu
 - ✅ Best deal showcase with property details and images  
 - ✅ Property listing cards with details and "schedule a visit" buttons  
 - ✅ Contact section with **Google Maps integration** and contact form  
-- ✅ Footer with copyright  
+- ✅ Footer with copyright
 
 ---
 
